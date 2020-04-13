@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mvcproject", "mvcproject.csproj", "{83B1A103-6E3D-4BEC-A68B-B6C3C78308FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83B1A103-6E3D-4BEC-A68B-B6C3C78308FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83B1A103-6E3D-4BEC-A68B-B6C3C78308FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83B1A103-6E3D-4BEC-A68B-B6C3C78308FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83B1A103-6E3D-4BEC-A68B-B6C3C78308FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
